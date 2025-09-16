@@ -264,4 +264,4 @@ replaces:
   # see https://github.com/open-telemetry/opentelemetry-collector/pull/13466
   - go.opentelemetry.io/otel/exporters/prometheus => go.opentelemetry.io/otel/exporters/prometheus v0.58.0
   # Use custom redactionprocessor from branch 41535-01330 with specific commit
-  - github.com/open-telemetry/opentelemetry-collector-contrib/processor/redactionprocessor => github.com/iblancasa/opentelemetry-collector-contrib/processor/redactionprocessor v0.0.0-20250911093504-46b15001a278
+  - github.com/open-telemetry/opentelemetry-collector-contrib/processor/redactionprocessor => github.com/iblancasa/opentelemetry-collector-contrib/processor/redactionprocessor v0.0.0-20250916135923-d001c0b286fb
